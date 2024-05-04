@@ -1,0 +1,5 @@
+This file denotes the requirements for boto3 scripts
+Language : Python3
+Platform : AWS account
+Package 1 : pip
+Package 2 : boto3 
